@@ -1,5 +1,5 @@
 {
-  "extends": ["../.eslintrc.json", "plugin:react/recommended"],
+  "extends": ["../.eslintrc.json"],
   "settings": {
     "react": {
       "version": "detect"
